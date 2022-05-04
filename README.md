@@ -15,7 +15,7 @@ https://www.kaggle.com/c/tweet-sentiment-extraction/overview/description
 Files include dataset, Python code
 
 
-## **Presentation slide excerpts**
+## **Python code excerpts**
 [![Capture.png](https://i.postimg.cc/MHM2fHDS/Capture.png)](https://postimg.cc/fSNg6wp2)
 [![Capture.png](https://i.postimg.cc/5N89sKBM/Capture.png)](https://postimg.cc/2V8f6w9H)
 [![Capture.png](https://i.postimg.cc/7Y1D3G4H/Capture.png)](https://postimg.cc/6yQDwQTg)
