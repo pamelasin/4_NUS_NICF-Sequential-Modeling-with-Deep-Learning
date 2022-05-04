@@ -4,6 +4,8 @@
 From a text, predict sentiment (positive, negative, neutral) and determine which phrase best supports it.
 https://www.kaggle.com/c/tweet-sentiment-extraction/overview/description
 
+Credit to https://www.curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/ with modifications. 
+
 - Sentiment_Analysis_BERT.ipynb
     1.  Create model to predict sentiment from text (BERT + pytorch)
 - Tweet_Sentiment_Extraction.ipynb
